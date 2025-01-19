@@ -7,7 +7,9 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -91,10 +93,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -104,12 +102,8 @@
 
 ###
 
-<img align="right" height="150" src="https://unsplash.com/photos/silver-laptop-computer-on-black-table-WB3ujiKLJwQ?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/CodeITTechnologies/CodeITTechnologies/output/snake.svg" alt="Snake animation" />
-
-###
+Code Guruva IT Technologies is a premier training institute specializing in cutting-edge technologies. We provide comprehensive training programs in web application development, mobile application development, and related domains. Our training modules are designed to equip students with practical skills and industry insights, ensuring they stay ahead in the competitive tech landscape.
+<br />
+We go beyond just teaching by offering hands-on projects to enhance real-world experience and job assistance to kickstart your career. Whether you're a beginner or looking to upskill, Code Guruva IT Technologies is committed to helping you achieve your professional goals.
+<br />
+Join us to transform your aspirations into success!
