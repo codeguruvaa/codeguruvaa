@@ -106,10 +106,7 @@
 <br /><br />
 We go beyond just teaching by offering hands-on projects to enhance real-world experience and job assistance to kickstart your career. Whether you're a beginner or looking to upskill, Code Guruva IT Technologies is committed to helping you achieve your professional goals.
 <br /><br />
-Join us to transform your aspirations into success!
-
-
-<h2 align="left">Hi 👋! CGVA Technnologies</h2>
+**Join us to transform your aspirations into success!**
 
 ###
 
