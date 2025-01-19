@@ -102,8 +102,24 @@
 
 ###
 
-Code Guruva IT Technologies is a premier training institute specializing in cutting-edge technologies. We provide comprehensive training programs in web application development, mobile application development, and related domains. Our training modules are designed to equip students with practical skills and industry insights, ensuring they stay ahead in the competitive tech landscape.
-<br />
+**Code Guruva IT Technologies** is a premier training institute specializing in cutting-edge technologies. We provide comprehensive training programs in web application development, mobile application development, and related domains. Our training modules are designed to equip students with practical skills and industry insights, ensuring they stay ahead in the competitive tech landscape.
+<br /><br />
 We go beyond just teaching by offering hands-on projects to enhance real-world experience and job assistance to kickstart your career. Whether you're a beginner or looking to upskill, Code Guruva IT Technologies is committed to helping you achieve your professional goals.
-<br />
+<br /><br />
 Join us to transform your aspirations into success!
+
+
+<h2 align="left">Hi 👋! CGVA Technnologies</h2>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/CodeITTechnologies/CodeITTechnologies/output/snake.svg" alt="Snake animation" />
+
+###
